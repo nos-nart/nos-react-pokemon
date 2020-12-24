@@ -1,0 +1,45 @@
+.title {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.card {
+  border-radius: 5px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  padding: 1rem;
+  min-height: 250px;
+  margin-bottom: 0.5rem;
+}
+
+.cardLogo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  max-width: 6rem;
+}
+
+.symbol {
+  width: 2rem;
+}
+
+.description {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.textLg {
+  font-size: 1.5rem;
+}
+
+.ml4 {
+  margin-left: 1rem;
+}
